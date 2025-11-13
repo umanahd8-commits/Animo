@@ -1,2 +1,1 @@
-pytelegrambotapi
-psycopg2-binary
+# Static website - no Python requirements
