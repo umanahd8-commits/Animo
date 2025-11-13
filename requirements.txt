@@ -1,0 +1,2 @@
+pytelegrambotapi
+psycopg2-binary
